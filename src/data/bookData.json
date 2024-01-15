@@ -1,0 +1,98 @@
+[
+    {
+        "title": "JavaScript",
+        "author": "Jon Duckett",
+        "price": 62,
+        "rating": 4,
+        "year": 2009,
+        "isFavourite":false
+    },
+    {
+        "title": "Eloquent JS",
+        "author": "Marijn",
+        "price": 50,
+        "rating": 4,
+        "year": 2010,
+        "isFavourite":false
+    },
+    {
+        "title": "About Code",
+        "author": "Robert",
+        "price": 40,
+        "rating": 4,
+        "year": 2012,
+        "isFavourite":false
+    },
+    {
+        "title": "U Don't Know JS",
+        "author": "Kyle Simpson",
+        "price": 55,
+        "rating": 4,
+        "year": 2012,
+        "isFavourite":false
+    },
+    {
+        "title": "Code Complete",
+        "author": "Steve McConnell",
+        "price": 48,
+        "rating": 4,
+        "year": 2014,
+        "isFavourite":false
+    },
+    {
+        "title": "The Programmer",
+        "author": "Andrew Hunt",
+        "price": 65,
+        "rating": 4,
+        "year": 2016,
+        "isFavourite":false
+    },
+    {
+        "title": "Design Patterns",
+        "author": "Eric Freeman",
+        "price": 42,
+        "rating": 4,
+        "year": 1997,
+        "isFavourite":false
+    },
+    {
+        "title": "Refactoring",
+        "author": "Martin Fowler",
+        "price": 58,
+        "rating": 4,
+        "year": 1998,
+        "isFavourite":false
+    },
+    {
+        "title": "Design Patterns",
+        "author": "Erich Gamma",
+        "price": 46,
+        "rating": 4,
+        "year": 2020,
+        "isFavourite":false
+    },
+    {
+        "title": "The Programmer",
+        "author": "Andrew Hunt",
+        "price": 70,
+        "rating": 4,
+        "year": 2000,
+        "isFavourite":false
+    },
+    {
+        "title": "Effective JS",
+        "author": "David Herman",
+        "price": 55,
+        "rating": 4,
+        "year": 2013,
+        "isFavourite":false
+    },
+    {
+        "title": "Zoo Complete",
+        "author": "Steve McConnell",
+        "price": 70,
+        "rating": 4,
+        "year": 1999,
+        "isFavourite":false
+    }
+]
